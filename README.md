@@ -3,7 +3,7 @@ Seja bem vindo(a), este código foi desenvolvido em React Js.
 
 
 ## Preview
-<img width=100% src="./src/images/memeGenerate.gif">
+<img width=100% src="./src/images/memeGenerator.gif">
 
 
 ## Live demo
